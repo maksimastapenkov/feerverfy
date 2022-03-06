@@ -1,0 +1,40 @@
+body {
+    font-family: sans-serif;
+}
+header {
+    
+    background-color:cornflowerblue ;
+    border :5px solid lightblue;
+}
+header a {
+        border: 5px solid lightblue;
+}
+h1 {
+    color: rgb(17, 0, 255);
+}
+td{
+    border: 5px solid  blue;
+}
+table{
+    border-collapse: collapse;
+}
+nav a{
+    font-size: 20px;
+    text-decoration: none;
+    color:white;
+    border: 3px solid navy;
+    border-radius: 10px;
+    background-color: navy;
+}
+.popular{
+    background-color: white;
+    color: royalblue
+}
+.kartinki{
+    background-color: greenyellow;
+    border-radius: 10px;
+}
+.bebra{
+    border-color: 20px solid darkorange;
+    border-radius:30px ;
+}
